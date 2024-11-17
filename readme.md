@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Below is an example of an image enhanced using SRCNN:
 
-![Enhanced Image](output\Odie256B.png)
+![Enhanced Image](output/Odie256B.png)
 
 ---
 
