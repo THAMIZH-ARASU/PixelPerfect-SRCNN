@@ -1,0 +1,7 @@
+tensorflow>=2.0.0
+keras>=2.3.0
+opencv-python>=4.5.0
+numpy>=1.18.0
+matplotlib>=3.0.0
+scipy>=1.4.0
+scikit-image>=0.16.0
